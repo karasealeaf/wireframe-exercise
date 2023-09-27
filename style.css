@@ -8,13 +8,11 @@ header {
   background-color: rgba(169, 169, 169, 0.453);
   display: flex;
   align-items: center;
-  padding: auto;
-  width: 100%;
 }
 
 header img {
-  padding: 25px;
-  width: 25%;
+  padding: auto;
+  width: 15%;
 }
 
 img {
